@@ -1,0 +1,5 @@
+* chez-inotify
+inotify library for Chez Scheme
+Totally written using ffi.
+
+see test-new.scm for example.
